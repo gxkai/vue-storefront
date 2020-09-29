@@ -2,7 +2,7 @@
 
 ## 0.0.7 (not released)
 
-- Storing payment token inside sessionStorage and clearing it in onUnmounted ([#4928](https://github.com/DivanteLtd/vue-storefront/issues/4928))
+- Storing payment token inside sessionStorage and exported `removeTransactionToken` method ([#4928](https://github.com/DivanteLtd/vue-storefront/issues/4928))
 
 ## 0.0.6 
 
